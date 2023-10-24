@@ -1,4 +1,4 @@
-package test2.src.pers.chenmo.myapp.Appor;
+package pers.chenmo.myapp.Appor;
 
 /* 2.	某公司现有java程序开发部门、C#程序开发部门、asp.net程序测试部门、前端程序开发部门四个部门。编写一个程序实现新入职的员工的部门分配，要求根据用户输入的员工姓名和应聘语言确定员工应该分配到哪个部门。
 若公司没有与输入的语言匹配的部门，则进行相关提示。 */

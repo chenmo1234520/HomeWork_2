@@ -1,4 +1,4 @@
-package test2.src.pers.chenmo.myapp.Shoping;
+package pers.chenmo.myapp.Shoping;
 
 /* 
 1.编写一个智能购物计算小程序，在一家商店有书本、铅笔、橡皮、可乐、零食五种商品，商品价格如下表所示。
